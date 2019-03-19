@@ -18,3 +18,8 @@
   margin-top: 60px;
 }
 </style>
+
+
+<script>
+	// console.info("App.vue init");
+</script>
